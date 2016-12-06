@@ -50,5 +50,20 @@ code {
     font-size: 16px;
     color:green;
     font-family: sans-serif;
-    
+}
+
+a:link{
+    color:green;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:blue;
+}
+
+a:visited{
+    color:black;
 }
